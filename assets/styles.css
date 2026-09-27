@@ -1,0 +1,11 @@
+/* assets/styles.css */
+body { font-family: Tahoma, Arial, sans-serif; background:#f6f8fa; color:#222; }
+.container { max-width:900px; margin:30px auto; background:#fff; padding:20px; border:1px solid #ddd; border-radius:6px; }
+h1 { margin-top:0 }
+nav { margin-bottom:15px }
+input, textarea, select { display:block; width:100%; padding:8px; margin:6px 0 12px; box-sizing:border-box }
+button { padding:8px 12px; }
+table { width:100%; border-collapse:collapse; margin-top:12px }
+table th, table td { border:1px solid #e6e6e6; padding:8px; text-align:right }
+.error { background:#ffe6e6; padding:10px; border:1px solid #ffb3b3; color:#900 }
+.success { background:#e6ffe6; padding:10px; border:1px solid #b3ffb3; color:#060 }
